@@ -19,10 +19,12 @@ Phase margin: 56deg
 CMRR: 58dB
 Max slew rate: 4.93279V/us
 
-Ideal designs done using monolithic MOSFETs
+Ideal designs done using monolithic MOSFETs:
 
 One stage opamp:
 DC gain: 37.71dB
 
 Telescopic Opamp:
 DC gain: 42dB
+
+Text annotations in the asc files can be referred too.
